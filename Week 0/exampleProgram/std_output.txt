@@ -1,0 +1,2 @@
+[STANDARD OUTPUT] Please input a number bigger than 100
+[STANDARD ERROR] Number is not bigger than 100 = 10
