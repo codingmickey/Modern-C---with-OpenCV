@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/build",
+  "command": "/usr/bin/c++   -I\"/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/.\"    -o CMakeFiles/main.dir/main.cpp.o -c \"/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/main.cpp\"",
+  "file": "/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/main.cpp"
+},
+{
+  "directory": "/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/build",
+  "command": "/usr/bin/c++   -I\"/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/.\"    -o CMakeFiles/tools.dir/tools.cpp.o -c \"/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/tools.cpp\"",
+  "file": "/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/tools.cpp"
+}
+]

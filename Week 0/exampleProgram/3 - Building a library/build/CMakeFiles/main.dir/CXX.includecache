@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/main.cpp
+tools.hpp
+/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/tools.hpp
+
+/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/tools.hpp
+

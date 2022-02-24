@@ -1,0 +1,4 @@
+/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/build/CMakeFiles/edit_cache.dir
+/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/build/CMakeFiles/main.dir
+/mnt/d/Programming/Modern C++ with OpenCV/Week 0/exampleProgram/3 - Building a library/build/CMakeFiles/tools.dir
