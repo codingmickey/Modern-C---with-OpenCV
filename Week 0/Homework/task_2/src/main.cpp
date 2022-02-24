@@ -9,7 +9,8 @@
 using std::cout;
 using std::endl;
 
-int main() {
+int main()
+{
   const float x = 1.0;
   const float y = 2.0;
   cout << "The sum of " << x << "+" << y << " = " << MySum(x, y) << endl
