@@ -1,8 +1,0 @@
-{
-  "files.associations": {
-    "*.ejs": "html",
-    "iosfwd": "c",
-    "iostream": "cpp"
-  },
-  "cmake.configureOnOpen": true
-}
